@@ -1,1 +1,1 @@
-# Copernicus_data
+# Copernicus_data (NetCDF file)
