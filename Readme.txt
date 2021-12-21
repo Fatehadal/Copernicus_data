@@ -12,3 +12,9 @@ Coordinates for the extraction of the Copernicus data:
 ***After collecting envirornmental data (NC/NetCDF file):
 	1. Extract variable and dimensions from the NetCDF file
 	2. Convert and write the data into CSV file (netcdf_csv_github.ipynb)
+	3. Merge Raw AIS data, landing report data and environmental data
+	4. For season selection, use the following four time frames: 
+		i. JFM -> Winter
+		ii. AMJ -> Spring
+		iii. JAS -> Summer
+		iv. AND -> Autumn
